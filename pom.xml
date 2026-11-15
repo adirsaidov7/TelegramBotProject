@@ -15,7 +15,7 @@
 
         <!-- Program settings. Maven copies them into app.properties at build time (resource filtering). -->
         <telegram.token>8961020268:AAGXu1te2VNmAWwdDSBt0npB0nbl98zNmfI</telegram.token>
-        <openai.apiKey>EAFHClqz0icsvyL1BMWbOI3fTLXoh6XDGRGyNHsqi3wkkzLcasSIuj4tLxPVJpAM</openai.apiKey>
+        <openai.apiKey>sk-EAFHClqz0icsvyL1BMWbOI3fTLXoh6XDGRGyNHsqi3wkkzLcasSIuj4tLxPVJpAM</openai.apiKey>
     </properties>
 
     <dependencies>
