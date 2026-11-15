@@ -1,0 +1,4 @@
+target/
+community.txt
+*.iml
+.idea/
